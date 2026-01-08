@@ -1,0 +1,32 @@
+[2026-01-08 05:11:35] [INFO] 모니터링 시작
+[2026-01-08 05:11:35] [ERROR] 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+[2026-01-08 05:11:35] [INFO] 최근 5분간 오류 수: [0;31m[ERROR][0m 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+0
+[2026-01-08 05:11:35] [INFO] 변화율 분석 - 변화율:%, 임계값:100%
+[2026-01-08 05:11:35] [INFO] 가중치 점수: 0
+[2026-01-08 05:11:35] [INFO] 이상 감지 결과: severity=NORMAL|score=0|current=[0;31m[ERROR][0m 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+0|mean=|threshold=|change_rate=|weighted_score=[0;32m[INFO][0m 가중치 점수: 0|type_alerts=
+[2026-01-08 05:12:55] [INFO] 모니터링 시작
+[2026-01-08 05:12:55] [ERROR] 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+[2026-01-08 05:12:55] [INFO] 최근 5분간 오류 수: [0;31m[ERROR][0m 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+0
+[2026-01-08 05:12:55] [INFO] 변화율 분석 - 변화율:%, 임계값:100%
+[2026-01-08 05:12:55] [INFO] 가중치 점수: 0
+[2026-01-08 05:12:55] [INFO] 이상 감지 결과: severity=NORMAL|score=0|current=[0;31m[ERROR][0m 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+0|mean=|threshold=|change_rate=|weighted_score=[0;32m[INFO][0m 가중치 점수: 0|type_alerts=
+[2026-01-08 05:13:22] [INFO] 모니터링 시작
+[2026-01-08 05:13:22] [ERROR] 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+[2026-01-08 05:13:22] [INFO] 최근 5분간 오류 수: [0;31m[ERROR][0m 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+0
+[2026-01-08 05:13:22] [INFO] 변화율 분석 - 변화율:%, 임계값:100%
+[2026-01-08 05:13:22] [INFO] 가중치 점수: 0
+[2026-01-08 05:13:22] [INFO] 이상 감지 결과: severity=NORMAL|score=0|current=[0;31m[ERROR][0m 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+0|mean=|threshold=|change_rate=|weighted_score=[0;32m[INFO][0m 가중치 점수: 0|type_alerts=
+[2026-01-08 05:13:33] [INFO] 모니터링 시작
+[2026-01-08 05:13:33] [ERROR] 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+[2026-01-08 05:13:33] [INFO] 최근 5분간 오류 수: [0;31m[ERROR][0m 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+0
+[2026-01-08 05:13:33] [INFO] 변화율 분석 - 변화율:%, 임계값:100%
+[2026-01-08 05:13:33] [INFO] 가중치 점수: 0
+[2026-01-08 05:13:33] [INFO] 이상 감지 결과: severity=NORMAL|score=0|current=[0;31m[ERROR][0m 로그 파일을 찾을 수 없습니다: /var/log/app/error.log
+0|mean=|threshold=|change_rate=|weighted_score=[0;32m[INFO][0m 가중치 점수: 0|type_alerts=
